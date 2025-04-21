@@ -1,0 +1,1 @@
+# django-weekend-assignment
